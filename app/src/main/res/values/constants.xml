@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="GpsFrequency">5000</integer>
+    <integer name="AccelerationFrequency">20</integer>
+    <integer name="OrientationFrequency">1</integer>
+
+</resources>
